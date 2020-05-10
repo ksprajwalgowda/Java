@@ -5,3 +5,8 @@
 3. Java Program to check whether given number is armstrong number.
 4. Java Program to demonstrate ArrayIndexOutOfBounds Exception.
 5. Java Program to create deadlock between 2 threads.
+
+
+# ScrollingText
+
+Java program to create a scroll text using applets
